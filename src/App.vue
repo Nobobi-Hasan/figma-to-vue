@@ -5,6 +5,7 @@
     <Home />
     <Category />
     <TrickOrTreat />
+    <Subscription />
   </div>
   
 </template>
@@ -18,4 +19,5 @@
   import Home from './components/Home.vue';
   import Category from './components/Category.vue';
   import TrickOrTreat from './components/TrickOrTreat.vue';
+  import Subscription from './components/Subscription.vue';
 </script>
