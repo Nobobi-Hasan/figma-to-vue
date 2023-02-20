@@ -18,7 +18,7 @@
     </section>
 
 
-    <section id="about" class="grid grid-flow-col grid-cols-1 md:grid-cols-2 md:gap-10 items-center">
+    <section id="about" class="grid grid-flow-col grid-cols-1 md:grid-cols-2 md:gap-10 items-center py-32">
     
         <div class="md:p-10">
             <img src="../assets/images/category2-img.webp" alt="" class="w-full">
