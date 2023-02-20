@@ -50,7 +50,7 @@
                 <a @click="showMenu = false" href="#about" class="text-white font-medium">About</a>
                 <a @click="showMenu = false" href="#treat" class="text-white font-medium">Trick Or Treat</a>
 
-                <button class="hidden md:block px-8 py-3 rounded-full text-white font-medium tracking-wider uppercase bg-secondary w-full lg:w-auto">Donate</button>
+                <button class="hidden lg:block px-8 py-3 rounded-full text-white font-medium tracking-wider uppercase bg-secondary w-full lg:w-auto">Dooonate</button>
             </div>
 
         </div>
