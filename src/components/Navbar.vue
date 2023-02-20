@@ -45,10 +45,10 @@
             <div class="absolute lg:static top-20 inset-x-0 flex flex-col lg:flex-row items-center gap-5 lg:gap-10 bg-primary-200 lg:bg-transparent pt-5 pb-10 px-5 lg:p-0 transition duration-500 lg:duration-200 lg:-translate-y-0" 
             :class="!showMenu ? 'translate-y-[-150%]' : '-translate-y-0'">
 
-                <a @click="showMenu = false" href="#home" class="text-white font-medium">Home</a>
-                <a @click="showMenu = false" href="#category" class="text-white font-medium">Category</a>
-                <a @click="showMenu = false" href="#about" class="text-white font-medium">About</a>
-                <a @click="showMenu = false" href="#trick-or-treat" class="text-white font-medium">Trick Or Treat</a>
+                <a @click="showMenu = false" href="#home" class="text-white hover:text-secondary font-medium hover:font-bold">Home</a>
+                <a @click="showMenu = false" href="#category" class="text-white hover:text-secondary font-medium hover:font-bold">Category</a>
+                <a @click="showMenu = false" href="#about" class="text-white hover:text-secondary font-medium hover:font-bold">About</a>
+                <a @click="showMenu = false" href="#trick-or-treat" class="text-white hover:text-secondary font-medium hover:font-bold">Trick Or Treat</a>
 
                 <button class="hidden lg:block px-8 py-3 rounded-full text-white font-medium tracking-wider uppercase bg-secondary w-full lg:w-auto">Dooonate</button>
             </div>

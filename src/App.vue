@@ -6,6 +6,7 @@
     <Category />
     <TrickOrTreat />
     <Subscription />
+    <Footer />
   </div>
   
 </template>
@@ -20,4 +21,5 @@
   import Category from './components/Category.vue';
   import TrickOrTreat from './components/TrickOrTreat.vue';
   import Subscription from './components/Subscription.vue';
+  import Footer from './components/Footer.vue';
 </script>
