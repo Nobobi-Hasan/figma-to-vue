@@ -8,14 +8,14 @@ module.exports = {
     container: {
       center: true,
       padding: {
-        default: '1rem',
+        DEFAULT: '1rem',
         sm: '2rem',
         lg: '4rem',
       }
     },
 
     extend: {
-      c0lors: {
+      colors: {
         primary: {
           100: '#06C2AE',
           200: '#02889B',
