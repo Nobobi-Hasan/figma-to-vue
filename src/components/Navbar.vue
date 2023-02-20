@@ -48,7 +48,7 @@
                 <a @click="showMenu = false" href="#home" class="text-white font-medium">Home</a>
                 <a @click="showMenu = false" href="#category" class="text-white font-medium">Category</a>
                 <a @click="showMenu = false" href="#about" class="text-white font-medium">About</a>
-                <a @click="showMenu = false" href="#treat" class="text-white font-medium">Trick Or Treat</a>
+                <a @click="showMenu = false" href="#trick-or-treat" class="text-white font-medium">Trick Or Treat</a>
 
                 <button class="hidden lg:block px-8 py-3 rounded-full text-white font-medium tracking-wider uppercase bg-secondary w-full lg:w-auto">Dooonate</button>
             </div>
